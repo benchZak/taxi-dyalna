@@ -8,14 +8,14 @@ Our innovative taxi application,  is designed to streamline and enhance the expe
 # Key Features:
  
    - Phone Authentication and Registration (Passenger/Driver): 
-   -   -  Secure phone authentication for both passengers and drivers
-   -   -  Easy registration process with minimal user input
-   -   -  Verification of user details for added security
-   -   -  User profile management for easy access to account information
-   -   -  Real-time Location Sharing (Passenger/Driver):
-   -   -   -  Live tracking of driver location for passengers
-   -   -   -  Real-time updates on passenger location for drivers
-   -   -   -  Enhanced safety features with real-time location sharing
+      -  Secure phone authentication for both passengers and drivers
+      -  Easy registration process with minimal user input
+      -  Verification of user details for added security
+      -  User profile management for easy access to account information
+      -  Real-time Location Sharing (Passenger/Driver):
+         -  Live tracking of driver location for passengers
+         -  Real-time updates on passenger location for drivers
+         -  Enhanced safety features with real-time location sharing
 
 
 

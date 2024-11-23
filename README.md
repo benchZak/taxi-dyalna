@@ -46,7 +46,7 @@ Our innovative taxi application,  is designed to streamline and enhance the expe
    - Support for Android & iOS Devices (User/Driver):   
      Seamless compatibility with both major mobile operating systems.
 
-   - Estimated Time of Arrival (ETA) (User/Driver): 
+   - Estimated Time of Arrival (ETA) (User/Driver):  
      Receive precise arrival times for a more organized travel experience.
 
    - Dynamic UI Rendering (User/Driver):    

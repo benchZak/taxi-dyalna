@@ -1,61 +1,54 @@
-# taxi_dyalna
+### taxi_dyalna
 
- Comprehensive Taxi Application for Passengers and Drivers
+Comprehensive Taxi Application for Passengers and Drivers
+==============================================
 
 Our innovative taxi application, crafted with Dart & Flutter, is designed to streamline and enhance the experience of both passengers and drivers. Offering a comprehensive suite of features, this application provides a reliable and efficient solution for all your taxi service needs.
 
- Key Features:
+# Key Features:
+# Phone Authentication and Registration (Passenger/Driver): 
+#   - Secure phone authentication for both passengers and drivers
+#   - Easy registration process with minimal user input
+#   - Verification of user details for added security
+#   - User profile management for easy access to account information
+#   - Real-time Location Sharing (Passenger/Driver):
+#   -   - Live tracking of driver location for passengers
+#   -   - Real-time updates on passenger location for drivers
+#   -   - Enhanced safety features with real-time location sharing
 
- Phone Authentication and Registration (Passenger/Driver): 
- Secure and swift onboarding for both passengers and drivers, ensuring safety and convenience.
 
- Select Car Type (User): 
- Choose the perfect ride based on your preferences and needs.
 
- Instant Booking (User): 
- Book a taxi with just a few taps for an immediate ride.
+Select Car Type (User):  Choose the perfect ride based on your preferences and needs.
 
- Profile Management (User/Driver):
- Easily edit and update personal details and preferences.
+Instant Booking (User):  Book a taxi with just a few taps for an immediate ride.
 
- SMS and Email Alerts (User/Driver):
- Stay informed with timely notifications and alerts.
+Profile Management (User/Driver):  Easily edit and update personal details and preferences.
 
- Invite New Users (User):
- Expand the community by inviting friends and family to join.
+SMS and Email Alerts (User/Driver):  Stay informed with timely notifications and alerts.
 
- Vehicle Tracking System (GPS) (User/Driver):
- Real-time tracking of vehicles for enhanced safety and transparency.
+Invite New Users (User):  Expand the community by inviting friends and family to join.
 
- Trip/Cap Tracking (User):
- Monitor your journey details and stay on top of your travel plans.
+Vehicle Tracking System (GPS) (User/Driver):  Real-time tracking of vehicles for enhanced safety and transparency.
 
- Automatic Fare Calculation (User/Driver):
- Accurate fare estimates to ensure transparency and fairness.
+Trip/Cap Tracking (User):  Monitor your journey details and stay on top of your travel plans.
 
- Support for Android & iOS Devices (User/Driver):
- Seamless compatibility with both major mobile operating systems.
+Automatic Fare Calculation (User/Driver):  Accurate fare estimates to ensure transparency and fairness.
 
- Estimated Time of Arrival (ETA) (User/Driver):
- Receive precise arrival times for a more organized travel experience.
+Support for Android & iOS Devices (User/Driver):  Seamless compatibility with both major mobile operating systems.
 
- Dynamic UI Rendering (User/Driver):
- Enjoy a visually appealing and adaptive interface that enhances user experience.
+Estimated Time of Arrival (ETA) (User/Driver):  Receive precise arrival times for a more organized travel experience.
 
- Address History (User/Driver):
- Access and manage past addresses for quicker bookings and convenience.
+Dynamic UI Rendering (User/Driver):  Enjoy a visually appealing and adaptive interface that enhances user experience.
 
- Ride Notifications (User/Driver):
- Get real-time updates on ride status and important notifications.
+Address History (User/Driver):  Access and manage past addresses for quicker bookings and convenience.
 
- Accept and Cancel Rides (Driver):
- Flexibility for drivers to manage their ride requests efficiently.
+Ride Notifications (User/Driver):  Get real-time updates on ride status and important notifications.
 
- Start and End Ride (User/Driver):
- Seamlessly begin and conclude rides with a simple interface.
+Accept and Cancel Rides (Driver):  Flexibility for drivers to manage their ride requests efficiently.
 
- Contact Passengers (Driver):
- Direct communication channels for better coordination.
+Start and End Ride (User/Driver):  Seamlessly begin and conclude rides with a simple interface.
+
+Contact Passengers (Driver):  Direct communication channels for better coordination.
 
 Experience a new level of convenience and efficiency with our feature-rich taxi application, designed to cater to the needs of both passengers and drivers.
 
